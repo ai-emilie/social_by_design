@@ -1,0 +1,239 @@
+2025-04-18 12:22:45,799 - media_topic_modeling - INFO - Using device: cpu
+2025-04-18 12:22:45,831 - media_topic_modeling - INFO - Loading CLIP model: ViT-B/32
+2025-04-18 12:23:12,623 - sentence_transformers.SentenceTransformer - INFO - Use pytorch device_name: mps
+2025-04-18 12:23:12,623 - sentence_transformers.SentenceTransformer - INFO - Load pretrained SentenceTransformer: paraphrase-multilingual-MiniLM-L12-v2
+2025-04-18 12:23:16,341 - media_topic_modeling - INFO - Temporary directory for media: /var/folders/1x/l3vm4chs5n7bjwbh3jvww1t80000gn/T/media_topic_modeling_n9_alob4
+2025-04-18 12:23:16,342 - media_topic_modeling - INFO - Starting media topic modeling pipeline
+2025-04-18 12:23:16,343 - media_topic_modeling - INFO - Starting parallel media download
+2025-04-18 12:23:16,351 - media_topic_modeling - INFO - Found 62 posts with media to process
+2025-04-18 12:23:16,998 - media_topic_modeling - INFO - Successfully downloaded media for post 3610376397587448851
+2025-04-18 12:23:17,284 - media_topic_modeling - INFO - Successfully downloaded media for post 3608776027509513711
+2025-04-18 12:23:17,458 - media_topic_modeling - INFO - Successfully downloaded media for post 3608745713269584707
+2025-04-18 12:23:17,526 - media_topic_modeling - INFO - Successfully downloaded media for post 3609470211295933255
+2025-04-18 12:23:17,674 - media_topic_modeling - INFO - Successfully downloaded media for post 3599414340746643689
+2025-04-18 12:23:17,757 - media_topic_modeling - INFO - Successfully downloaded media for post 3609500502131562776
+2025-04-18 12:23:18,025 - media_topic_modeling - INFO - Successfully downloaded media for post 3607447069971097911
+2025-04-18 12:23:18,321 - media_topic_modeling - INFO - Successfully downloaded media for post 3610346210007055456
+2025-04-18 12:23:18,603 - media_topic_modeling - INFO - Successfully downloaded media for post 3599444493480544304
+2025-04-18 12:23:18,665 - media_topic_modeling - INFO - Successfully downloaded media for post 3601014756561543704
+2025-04-18 12:23:18,715 - media_topic_modeling - INFO - Successfully downloaded media for post 3605876857199018899
+2025-04-18 12:23:18,782 - media_topic_modeling - INFO - Successfully downloaded media for post 3600259621115884021
+2025-04-18 12:23:18,845 - media_topic_modeling - INFO - Successfully downloaded media for post 3600350108157755883
+2025-04-18 12:23:19,630 - media_topic_modeling - INFO - Successfully downloaded media for post 3605846473839495633
+2025-04-18 12:23:19,663 - media_topic_modeling - INFO - Successfully downloaded media for post 3608292808727175795
+2025-04-18 12:23:20,028 - media_topic_modeling - INFO - Successfully downloaded media for post 3601045009388467507
+2025-04-18 12:23:20,370 - media_topic_modeling - INFO - Successfully downloaded media for post 3600229493446925319
+2025-04-18 12:23:20,646 - media_topic_modeling - INFO - Successfully downloaded media for post 3600078737416627302
+2025-04-18 12:23:20,782 - media_topic_modeling - INFO - Successfully downloaded media for post 3598870401260134573
+2025-04-18 12:23:20,954 - media_topic_modeling - INFO - Successfully downloaded media for post 3600289777071000479
+2025-04-18 12:23:20,995 - media_topic_modeling - INFO - Successfully downloaded media for post 3598024909231754313
+2025-04-18 12:23:21,187 - media_topic_modeling - INFO - Successfully downloaded media for post 3600984483954367995
+2025-04-18 12:23:21,607 - media_topic_modeling - INFO - Successfully downloaded media for post 3594474480060898213
+2025-04-18 12:23:21,876 - media_topic_modeling - INFO - Successfully downloaded media for post 3600320148621860346
+2025-04-18 12:23:21,977 - media_topic_modeling - INFO - Successfully downloaded media for post 3599474478937413799
+2025-04-18 12:23:22,126 - media_topic_modeling - INFO - Successfully downloaded media for post 3592166184002534845
+2025-04-18 12:23:22,352 - media_topic_modeling - INFO - Successfully downloaded media for post 3592105966480815916
+2025-04-18 12:23:22,559 - media_topic_modeling - INFO - Successfully downloaded media for post 3592075971603589955
+2025-04-18 12:23:22,727 - media_topic_modeling - INFO - Successfully downloaded media for post 3592347735283431621
+2025-04-18 12:23:23,271 - media_topic_modeling - INFO - Successfully downloaded media for post 3590622708235170591
+2025-04-18 12:23:23,410 - media_topic_modeling - INFO - Successfully downloaded media for post 3595065850408670438
+2025-04-18 12:23:23,478 - media_topic_modeling - INFO - Successfully downloaded media for post 3592136309166427772
+2025-04-18 12:23:23,671 - media_topic_modeling - INFO - Successfully downloaded media for post 3589333049083149279
+2025-04-18 12:23:23,745 - media_topic_modeling - INFO - Successfully downloaded media for post 3592860985584905449
+2025-04-18 12:23:23,811 - media_topic_modeling - INFO - Successfully downloaded media for post 3597420811411412275
+2025-04-18 12:23:23,891 - media_topic_modeling - INFO - Successfully downloaded media for post 3588058382749816379
+2025-04-18 12:23:24,126 - media_topic_modeling - INFO - Successfully downloaded media for post 3582653574289427386
+2025-04-18 12:23:24,143 - media_topic_modeling - INFO - Successfully downloaded media for post 3581989432781478966
+2025-04-18 12:23:24,240 - media_topic_modeling - INFO - Successfully downloaded media for post 3592384671892714945
+2025-04-18 12:23:24,254 - media_topic_modeling - INFO - Successfully downloaded media for post 3589569425451553937
+2025-04-18 12:23:24,854 - media_topic_modeling - INFO - Successfully downloaded media for post 3588601269845298647
+2025-04-18 12:23:25,243 - media_topic_modeling - INFO - Successfully downloaded media for post 3586482975499509346
+2025-04-18 12:23:25,437 - media_topic_modeling - INFO - Successfully downloaded media for post 3587998861677730751
+2025-04-18 12:23:25,661 - media_topic_modeling - INFO - Successfully downloaded media for post 3588452122995513080
+2025-04-18 12:23:25,687 - media_topic_modeling - INFO - Successfully downloaded media for post 3582623597758006026
+2025-04-18 12:23:26,404 - media_topic_modeling - INFO - Successfully downloaded media for post 3575657186009130817
+2025-04-18 12:23:26,847 - media_topic_modeling - INFO - Successfully downloaded media for post 3549374711602154354
+2025-04-18 12:23:27,123 - media_topic_modeling - INFO - Successfully downloaded media for post 3581928788053022651
+2025-04-18 12:23:27,274 - media_topic_modeling - INFO - Successfully downloaded media for post 3571087790114606414
+2025-04-18 12:23:27,316 - media_topic_modeling - INFO - Successfully downloaded media for post 3586625026628892301
+2025-04-18 12:23:27,349 - media_topic_modeling - INFO - Successfully downloaded media for post 3549344516195369385
+2025-04-18 12:23:27,509 - media_topic_modeling - INFO - Successfully downloaded media for post 3570695207152894076
+2025-04-18 12:23:27,913 - media_topic_modeling - INFO - Successfully downloaded media for post 3565349616392340213
+2025-04-18 12:23:27,996 - media_topic_modeling - INFO - Successfully downloaded media for post 3565289371548839645
+2025-04-18 12:23:28,009 - media_topic_modeling - INFO - Successfully downloaded media for post 3541280964361958044
+2025-04-18 12:23:28,056 - media_topic_modeling - INFO - Successfully downloaded media for post 3567463908325904630
+2025-04-18 12:23:28,328 - media_topic_modeling - INFO - Successfully downloaded media for post 3566013788761939468
+2025-04-18 12:23:28,460 - media_topic_modeling - INFO - Successfully downloaded media for post 3539831503767296534
+2025-04-18 12:23:29,059 - media_topic_modeling - INFO - Successfully downloaded media for post 3538602916223376260
+2025-04-18 12:23:29,133 - media_topic_modeling - INFO - Successfully downloaded media for post 3565576123941511175
+2025-04-18 12:23:29,571 - media_topic_modeling - INFO - Successfully downloaded media for post 3539318373287025418
+2025-04-18 12:23:29,642 - media_topic_modeling - INFO - Successfully downloaded media for post 3540556203640475939
+2025-04-18 12:23:29,643 - media_topic_modeling - INFO - Successfully downloaded 62 media files
+2025-04-18 12:23:29,643 - media_topic_modeling - INFO - Starting visual feature extraction
+2025-04-18 12:23:33,102 - media_topic_modeling - INFO - Extracted visual features for 62 posts
+2025-04-18 12:23:33,109 - media_topic_modeling - INFO - Combining visual and text features
+2025-04-18 12:23:40,648 - media_topic_modeling - INFO - Successfully combined features for 62 posts
+2025-04-18 12:23:40,649 - media_topic_modeling - INFO - Performing topic modeling on combined features
+2025-04-18 12:23:47,091 - media_topic_modeling - INFO - Generated 9 topics
+2025-04-18 12:23:47,091 - media_topic_modeling - INFO - Top topics:
+2025-04-18 12:23:47,091 - media_topic_modeling - INFO -   Topic 0: 20 documents - Key terms: samsungbespoke, bespokeai, samsung, bespoke, ai
+2025-04-18 12:23:47,091 - media_topic_modeling - INFO -   Topic 1: 9 documents - Key terms: art, samsungartstore, theframe, microled, neoqled
+2025-04-18 12:23:47,091 - media_topic_modeling - INFO -   Topic 2: 7 documents - Key terms: qled, ballie, pranks, realqled, samsungtv
+2025-04-18 12:23:47,091 - media_topic_modeling - INFO -   Topic 3: 5 documents - Key terms: smartthings, samsung, devices, set, protection
+2025-04-18 12:23:47,091 - media_topic_modeling - INFO -   Topic 4: 5 documents - Key terms: windfree, works, bespokeaiwindfree, airconditioner, conditioner
+2025-04-18 12:23:47,099 - media_topic_modeling - INFO - Topic information saved to media_topics.csv
+2025-04-18 12:23:47,099 - media_topic_modeling - INFO - Updating MongoDB with media topic assignments
+2025-04-18 12:23:47,099 - media_topic_modeling - ERROR - Error updating document 3610376397587448851: name 'topic_model' is not defined
+2025-04-18 12:23:47,099 - media_topic_modeling - ERROR - Error updating document 3609470211295933255: name 'topic_model' is not defined
+2025-04-18 12:23:47,100 - media_topic_modeling - ERROR - Error updating document 3609500502131562776: name 'topic_model' is not defined
+2025-04-18 12:23:47,100 - media_topic_modeling - ERROR - Error updating document 3608776027509513711: name 'topic_model' is not defined
+2025-04-18 12:23:47,100 - media_topic_modeling - ERROR - Error updating document 3599414340746643689: name 'topic_model' is not defined
+2025-04-18 12:23:47,100 - media_topic_modeling - ERROR - Error updating document 3610346210007055456: name 'topic_model' is not defined
+2025-04-18 12:23:47,100 - media_topic_modeling - ERROR - Error updating document 3608745713269584707: name 'topic_model' is not defined
+2025-04-18 12:23:47,100 - media_topic_modeling - ERROR - Error updating document 3599444493480544304: name 'topic_model' is not defined
+2025-04-18 12:23:47,100 - media_topic_modeling - ERROR - Error updating document 3608292808727175795: name 'topic_model' is not defined
+2025-04-18 12:23:47,100 - media_topic_modeling - ERROR - Error updating document 3607447069971097911: name 'topic_model' is not defined
+2025-04-18 12:23:47,100 - media_topic_modeling - ERROR - Error updating document 3605876857199018899: name 'topic_model' is not defined
+2025-04-18 12:23:47,100 - media_topic_modeling - ERROR - Error updating document 3601045009388467507: name 'topic_model' is not defined
+2025-04-18 12:23:47,100 - media_topic_modeling - ERROR - Error updating document 3601014756561543704: name 'topic_model' is not defined
+2025-04-18 12:23:47,100 - media_topic_modeling - ERROR - Error updating document 3600259621115884021: name 'topic_model' is not defined
+2025-04-18 12:23:47,100 - media_topic_modeling - ERROR - Error updating document 3600350108157755883: name 'topic_model' is not defined
+2025-04-18 12:23:47,100 - media_topic_modeling - ERROR - Error updating document 3605846473839495633: name 'topic_model' is not defined
+2025-04-18 12:23:47,101 - media_topic_modeling - ERROR - Error updating document 3598870401260134573: name 'topic_model' is not defined
+2025-04-18 12:23:47,101 - media_topic_modeling - ERROR - Error updating document 3598024909231754313: name 'topic_model' is not defined
+2025-04-18 12:23:47,101 - media_topic_modeling - ERROR - Error updating document 3600289777071000479: name 'topic_model' is not defined
+2025-04-18 12:23:47,101 - media_topic_modeling - ERROR - Error updating document 3600229493446925319: name 'topic_model' is not defined
+2025-04-18 12:23:47,101 - media_topic_modeling - ERROR - Error updating document 3600078737416627302: name 'topic_model' is not defined
+2025-04-18 12:23:47,101 - media_topic_modeling - ERROR - Error updating document 3600984483954367995: name 'topic_model' is not defined
+2025-04-18 12:23:47,101 - media_topic_modeling - ERROR - Error updating document 3599474478937413799: name 'topic_model' is not defined
+2025-04-18 12:23:47,101 - media_topic_modeling - ERROR - Error updating document 3592166184002534845: name 'topic_model' is not defined
+2025-04-18 12:23:47,101 - media_topic_modeling - ERROR - Error updating document 3592105966480815916: name 'topic_model' is not defined
+2025-04-18 12:23:47,101 - media_topic_modeling - ERROR - Error updating document 3600320148621860346: name 'topic_model' is not defined
+2025-04-18 12:23:47,101 - media_topic_modeling - ERROR - Error updating document 3594474480060898213: name 'topic_model' is not defined
+2025-04-18 12:23:47,101 - media_topic_modeling - ERROR - Error updating document 3592347735283431621: name 'topic_model' is not defined
+2025-04-18 12:23:47,101 - media_topic_modeling - ERROR - Error updating document 3590622708235170591: name 'topic_model' is not defined
+2025-04-18 12:23:47,101 - media_topic_modeling - ERROR - Error updating document 3595065850408670438: name 'topic_model' is not defined
+2025-04-18 12:23:47,101 - media_topic_modeling - ERROR - Error updating document 3592136309166427772: name 'topic_model' is not defined
+2025-04-18 12:23:47,102 - media_topic_modeling - ERROR - Error updating document 3592075971603589955: name 'topic_model' is not defined
+2025-04-18 12:23:47,102 - media_topic_modeling - ERROR - Error updating document 3592384671892714945: name 'topic_model' is not defined
+2025-04-18 12:23:47,102 - media_topic_modeling - ERROR - Error updating document 3589333049083149279: name 'topic_model' is not defined
+2025-04-18 12:23:47,102 - media_topic_modeling - ERROR - Error updating document 3592860985584905449: name 'topic_model' is not defined
+2025-04-18 12:23:47,102 - media_topic_modeling - ERROR - Error updating document 3597420811411412275: name 'topic_model' is not defined
+2025-04-18 12:23:47,102 - media_topic_modeling - ERROR - Error updating document 3589569425451553937: name 'topic_model' is not defined
+2025-04-18 12:23:47,102 - media_topic_modeling - ERROR - Error updating document 3588058382749816379: name 'topic_model' is not defined
+2025-04-18 12:23:47,102 - media_topic_modeling - ERROR - Error updating document 3582653574289427386: name 'topic_model' is not defined
+2025-04-18 12:23:47,102 - media_topic_modeling - ERROR - Error updating document 3581989432781478966: name 'topic_model' is not defined
+2025-04-18 12:23:47,102 - media_topic_modeling - ERROR - Error updating document 3586482975499509346: name 'topic_model' is not defined
+2025-04-18 12:23:47,102 - media_topic_modeling - ERROR - Error updating document 3588601269845298647: name 'topic_model' is not defined
+2025-04-18 12:23:47,102 - media_topic_modeling - ERROR - Error updating document 3588452122995513080: name 'topic_model' is not defined
+2025-04-18 12:23:47,103 - media_topic_modeling - ERROR - Error updating document 3582623597758006026: name 'topic_model' is not defined
+2025-04-18 12:23:47,103 - media_topic_modeling - ERROR - Error updating document 3587998861677730751: name 'topic_model' is not defined
+2025-04-18 12:23:47,103 - media_topic_modeling - ERROR - Error updating document 3586625026628892301: name 'topic_model' is not defined
+2025-04-18 12:23:47,103 - media_topic_modeling - ERROR - Error updating document 3581928788053022651: name 'topic_model' is not defined
+2025-04-18 12:23:47,103 - media_topic_modeling - ERROR - Error updating document 3575657186009130817: name 'topic_model' is not defined
+2025-04-18 12:23:47,103 - media_topic_modeling - ERROR - Error updating document 3570695207152894076: name 'topic_model' is not defined
+2025-04-18 12:23:47,103 - media_topic_modeling - ERROR - Error updating document 3571087790114606414: name 'topic_model' is not defined
+2025-04-18 12:23:47,103 - media_topic_modeling - ERROR - Error updating document 3549374711602154354: name 'topic_model' is not defined
+2025-04-18 12:23:47,103 - media_topic_modeling - ERROR - Error updating document 3541280964361958044: name 'topic_model' is not defined
+2025-04-18 12:23:47,103 - media_topic_modeling - ERROR - Error updating document 3549344516195369385: name 'topic_model' is not defined
+2025-04-18 12:23:47,103 - media_topic_modeling - ERROR - Error updating document 3565289371548839645: name 'topic_model' is not defined
+2025-04-18 12:23:47,104 - media_topic_modeling - ERROR - Error updating document 3565349616392340213: name 'topic_model' is not defined
+2025-04-18 12:23:47,104 - media_topic_modeling - ERROR - Error updating document 3565576123941511175: name 'topic_model' is not defined
+2025-04-18 12:23:47,104 - media_topic_modeling - ERROR - Error updating document 3567463908325904630: name 'topic_model' is not defined
+2025-04-18 12:23:47,104 - media_topic_modeling - ERROR - Error updating document 3566013788761939468: name 'topic_model' is not defined
+2025-04-18 12:23:47,104 - media_topic_modeling - ERROR - Error updating document 3540556203640475939: name 'topic_model' is not defined
+2025-04-18 12:23:47,104 - media_topic_modeling - ERROR - Error updating document 3539831503767296534: name 'topic_model' is not defined
+2025-04-18 12:23:47,104 - media_topic_modeling - ERROR - Error updating document 3539318373287025418: name 'topic_model' is not defined
+2025-04-18 12:23:47,104 - media_topic_modeling - ERROR - Error updating document 3538602916223376260: name 'topic_model' is not defined
+2025-04-18 12:23:47,104 - media_topic_modeling - INFO - Updated 0 documents with media topic IDs
+2025-04-18 12:23:47,104 - media_topic_modeling - WARNING - No documents were updated with topic IDs
+2025-04-18 12:23:47,104 - media_topic_modeling - INFO - Media topic modeling pipeline completed successfully
+2025-04-18 12:23:47,112 - media_topic_modeling - INFO - Cleaned up temporary directory: /var/folders/1x/l3vm4chs5n7bjwbh3jvww1t80000gn/T/media_topic_modeling_n9_alob4
+2025-04-18 12:44:49,868 - media_topic_modeling - INFO - Using device: cpu
+2025-04-18 12:44:49,904 - media_topic_modeling - INFO - Loading CLIP model: ViT-B/32
+2025-04-18 12:44:54,187 - sentence_transformers.SentenceTransformer - INFO - Use pytorch device_name: mps
+2025-04-18 12:44:54,187 - sentence_transformers.SentenceTransformer - INFO - Load pretrained SentenceTransformer: paraphrase-multilingual-MiniLM-L12-v2
+2025-04-18 12:44:57,905 - media_topic_modeling - INFO - Temporary directory for media: /var/folders/1x/l3vm4chs5n7bjwbh3jvww1t80000gn/T/media_topic_modeling_4b18zwa5
+2025-04-18 12:44:57,906 - media_topic_modeling - INFO - Starting media topic modeling pipeline
+2025-04-18 12:44:57,906 - media_topic_modeling - INFO - Starting parallel media download
+2025-04-18 12:44:57,910 - media_topic_modeling - INFO - Found 62 posts with media to process
+2025-04-18 12:44:58,547 - media_topic_modeling - INFO - Successfully downloaded media for post 3610376397587448851
+2025-04-18 12:44:58,839 - media_topic_modeling - INFO - Successfully downloaded media for post 3608776027509513711
+2025-04-18 12:44:59,025 - media_topic_modeling - INFO - Successfully downloaded media for post 3608745713269584707
+2025-04-18 12:44:59,055 - media_topic_modeling - INFO - Successfully downloaded media for post 3609470211295933255
+2025-04-18 12:44:59,227 - media_topic_modeling - INFO - Successfully downloaded media for post 3599414340746643689
+2025-04-18 12:44:59,296 - media_topic_modeling - INFO - Successfully downloaded media for post 3609500502131562776
+2025-04-18 12:44:59,545 - media_topic_modeling - INFO - Successfully downloaded media for post 3607447069971097911
+2025-04-18 12:44:59,852 - media_topic_modeling - INFO - Successfully downloaded media for post 3610346210007055456
+2025-04-18 12:45:00,129 - media_topic_modeling - INFO - Successfully downloaded media for post 3601014756561543704
+2025-04-18 12:45:00,195 - media_topic_modeling - INFO - Successfully downloaded media for post 3605876857199018899
+2025-04-18 12:45:00,306 - media_topic_modeling - INFO - Successfully downloaded media for post 3600259621115884021
+2025-04-18 12:45:00,324 - media_topic_modeling - INFO - Successfully downloaded media for post 3599444493480544304
+2025-04-18 12:45:00,369 - media_topic_modeling - INFO - Successfully downloaded media for post 3600350108157755883
+2025-04-18 12:45:01,091 - media_topic_modeling - INFO - Successfully downloaded media for post 3608292808727175795
+2025-04-18 12:45:01,109 - media_topic_modeling - INFO - Successfully downloaded media for post 3605846473839495633
+2025-04-18 12:45:01,345 - media_topic_modeling - INFO - Successfully downloaded media for post 3601045009388467507
+2025-04-18 12:45:01,851 - media_topic_modeling - INFO - Successfully downloaded media for post 3600229493446925319
+2025-04-18 12:45:01,945 - media_topic_modeling - INFO - Successfully downloaded media for post 3600078737416627302
+2025-04-18 12:45:02,201 - media_topic_modeling - INFO - Successfully downloaded media for post 3598870401260134573
+2025-04-18 12:45:02,372 - media_topic_modeling - INFO - Successfully downloaded media for post 3598024909231754313
+2025-04-18 12:45:02,416 - media_topic_modeling - INFO - Successfully downloaded media for post 3600289777071000479
+2025-04-18 12:45:02,691 - media_topic_modeling - INFO - Successfully downloaded media for post 3600984483954367995
+2025-04-18 12:45:02,950 - media_topic_modeling - INFO - Successfully downloaded media for post 3594474480060898213
+2025-04-18 12:45:03,241 - media_topic_modeling - INFO - Successfully downloaded media for post 3599474478937413799
+2025-04-18 12:45:03,328 - media_topic_modeling - INFO - Successfully downloaded media for post 3600320148621860346
+2025-04-18 12:45:03,534 - media_topic_modeling - INFO - Successfully downloaded media for post 3592166184002534845
+2025-04-18 12:45:03,759 - media_topic_modeling - INFO - Successfully downloaded media for post 3592105966480815916
+2025-04-18 12:45:03,967 - media_topic_modeling - INFO - Successfully downloaded media for post 3592075971603589955
+2025-04-18 12:45:04,096 - media_topic_modeling - INFO - Successfully downloaded media for post 3592347735283431621
+2025-04-18 12:45:04,627 - media_topic_modeling - INFO - Successfully downloaded media for post 3590622708235170591
+2025-04-18 12:45:04,878 - media_topic_modeling - INFO - Successfully downloaded media for post 3592136309166427772
+2025-04-18 12:45:05,026 - media_topic_modeling - INFO - Successfully downloaded media for post 3595065850408670438
+2025-04-18 12:45:05,068 - media_topic_modeling - INFO - Successfully downloaded media for post 3589333049083149279
+2025-04-18 12:45:05,173 - media_topic_modeling - INFO - Successfully downloaded media for post 3592860985584905449
+2025-04-18 12:45:05,190 - media_topic_modeling - INFO - Successfully downloaded media for post 3597420811411412275
+2025-04-18 12:45:05,295 - media_topic_modeling - INFO - Successfully downloaded media for post 3588058382749816379
+2025-04-18 12:45:05,412 - media_topic_modeling - INFO - Successfully downloaded media for post 3582653574289427386
+2025-04-18 12:45:05,599 - media_topic_modeling - INFO - Successfully downloaded media for post 3581989432781478966
+2025-04-18 12:45:05,615 - media_topic_modeling - INFO - Successfully downloaded media for post 3592384671892714945
+2025-04-18 12:45:05,867 - media_topic_modeling - INFO - Successfully downloaded media for post 3589569425451553937
+2025-04-18 12:45:06,139 - media_topic_modeling - INFO - Successfully downloaded media for post 3588601269845298647
+2025-04-18 12:45:06,610 - media_topic_modeling - INFO - Successfully downloaded media for post 3586482975499509346
+2025-04-18 12:45:07,003 - media_topic_modeling - INFO - Successfully downloaded media for post 3587998861677730751
+2025-04-18 12:45:07,035 - media_topic_modeling - INFO - Successfully downloaded media for post 3582623597758006026
+2025-04-18 12:45:07,101 - media_topic_modeling - INFO - Successfully downloaded media for post 3588452122995513080
+2025-04-18 12:45:07,947 - media_topic_modeling - INFO - Successfully downloaded media for post 3575657186009130817
+2025-04-18 12:45:08,174 - media_topic_modeling - INFO - Successfully downloaded media for post 3581928788053022651
+2025-04-18 12:45:08,315 - media_topic_modeling - INFO - Successfully downloaded media for post 3586625026628892301
+2025-04-18 12:45:08,368 - media_topic_modeling - INFO - Successfully downloaded media for post 3549374711602154354
+2025-04-18 12:45:08,439 - media_topic_modeling - INFO - Successfully downloaded media for post 3549344516195369385
+2025-04-18 12:45:08,499 - media_topic_modeling - INFO - Successfully downloaded media for post 3571087790114606414
+2025-04-18 12:45:08,875 - media_topic_modeling - INFO - Successfully downloaded media for post 3570695207152894076
+2025-04-18 12:45:09,029 - media_topic_modeling - INFO - Successfully downloaded media for post 3565349616392340213
+2025-04-18 12:45:09,079 - media_topic_modeling - INFO - Successfully downloaded media for post 3565289371548839645
+2025-04-18 12:45:09,214 - media_topic_modeling - INFO - Successfully downloaded media for post 3541280964361958044
+2025-04-18 12:45:09,356 - media_topic_modeling - INFO - Successfully downloaded media for post 3566013788761939468
+2025-04-18 12:45:09,379 - media_topic_modeling - INFO - Successfully downloaded media for post 3567463908325904630
+2025-04-18 12:45:09,607 - media_topic_modeling - INFO - Successfully downloaded media for post 3539831503767296534
+2025-04-18 12:45:09,985 - media_topic_modeling - INFO - Successfully downloaded media for post 3538602916223376260
+2025-04-18 12:45:10,187 - media_topic_modeling - INFO - Successfully downloaded media for post 3565576123941511175
+2025-04-18 12:45:10,450 - media_topic_modeling - INFO - Successfully downloaded media for post 3540556203640475939
+2025-04-18 12:45:10,670 - media_topic_modeling - INFO - Successfully downloaded media for post 3539318373287025418
+2025-04-18 12:45:10,671 - media_topic_modeling - INFO - Successfully downloaded 62 media files
+2025-04-18 12:45:10,672 - media_topic_modeling - INFO - Starting visual feature extraction
+2025-04-18 12:45:14,111 - media_topic_modeling - INFO - Extracted visual features for 62 posts
+2025-04-18 12:45:14,118 - media_topic_modeling - INFO - Combining visual and text features
+2025-04-18 12:45:21,548 - media_topic_modeling - INFO - Successfully combined features for 62 posts
+2025-04-18 12:45:21,548 - media_topic_modeling - INFO - Performing topic modeling on combined features
+2025-04-18 12:45:28,248 - media_topic_modeling - INFO - Generated 8 topics
+2025-04-18 12:45:28,248 - media_topic_modeling - INFO - Top topics:
+2025-04-18 12:45:28,249 - media_topic_modeling - INFO -   Topic 0: 21 documents - Key terms: bespokeai, samsungbespoke, samsung, bespoke, ai
+2025-04-18 12:45:28,249 - media_topic_modeling - INFO -   Topic 1: 14 documents - Key terms: art, ces, microled, tv, theframe
+2025-04-18 12:45:28,249 - media_topic_modeling - INFO -   Topic 2: 6 documents - Key terms: soundbar, qseriessoundbar, qsymphony, completeyourshow, gaming
+2025-04-18 12:45:28,249 - media_topic_modeling - INFO -   Topic 3: 5 documents - Key terms: smartthings, samsung, devices, home, care
+2025-04-18 12:45:28,249 - media_topic_modeling - INFO -   Topic 4: 5 documents - Key terms: windfree, works, bespokeaiwindfree, airconditioner, conditioner
+2025-04-18 12:45:28,253 - media_topic_modeling - INFO - Topic information saved to media_topics.csv
+2025-04-18 12:45:28,253 - media_topic_modeling - INFO - Updating MongoDB with media topic assignments
+2025-04-18 12:45:28,288 - media_topic_modeling - INFO - Updated 62 documents with media topic IDs
+2025-04-18 12:45:28,289 - media_topic_modeling - INFO - Media topic modeling pipeline completed successfully
+2025-04-18 12:45:28,296 - media_topic_modeling - INFO - Cleaned up temporary directory: /var/folders/1x/l3vm4chs5n7bjwbh3jvww1t80000gn/T/media_topic_modeling_4b18zwa5
